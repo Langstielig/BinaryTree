@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\source\repos\BinaryTree\BinaryTree\main.cpp(14,24): warning C4018: <: несоответствие типов со знаком и без знака
+  BinaryTree.vcxproj -> C:\Users\User\source\repos\BinaryTree\Debug\BinaryTree.exe
